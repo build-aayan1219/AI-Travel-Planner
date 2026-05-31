@@ -1,0 +1,175 @@
+destination_type,days,group_size,trip_type,season,transport_mode,hotel_quality,total_cost
+Beach,3,4,Relaxing Beach,Winter,Train,Budget,12000
+Beach,5,6,Relaxing Beach,Winter,Flight,Mid-range,45000
+Beach,2,2,Relaxing Beach,Summer,Bus,Budget,6000
+Beach,7,10,Adventure,Winter,Flight,Mid-range,120000
+Beach,4,4,Relaxing Beach,Monsoon,Train,Budget,14000
+Beach,3,8,Cultural & Heritage,Winter,Train,Mid-range,32000
+Beach,6,5,Adventure,Winter,Flight,Luxury,95000
+Beach,2,3,Relaxing Beach,Summer,Bus,Budget,7500
+Beach,4,12,Relaxing Beach,Winter,Train,Budget,36000
+Beach,5,4,Adventure,Winter,Flight,Mid-range,52000
+Hill Station,4,4,Adventure,Summer,Train,Budget,16000
+Hill Station,6,6,Adventure,Summer,Flight,Mid-range,72000
+Hill Station,3,2,Relaxing Beach,Winter,Train,Budget,9000
+Hill Station,7,8,Adventure,Summer,Flight,Luxury,130000
+Hill Station,5,4,Adventure,Winter,Train,Mid-range,28000
+Hill Station,4,10,Adventure,Summer,Bus,Budget,28000
+Hill Station,3,3,Relaxing Beach,Summer,Train,Budget,10500
+Hill Station,6,5,Adventure,Winter,Flight,Mid-range,65000
+Hill Station,2,4,Adventure,Summer,Bus,Budget,9000
+Hill Station,8,6,Adventure,Summer,Flight,Luxury,110000
+Hill Station,4,2,Cultural & Heritage,Winter,Train,Budget,11000
+Hill Station,5,8,Adventure,Summer,Train,Mid-range,42000
+Hill Station,3,4,Relaxing Beach,Monsoon,Bus,Budget,10000
+City,3,4,City Exploration,Winter,Flight,Mid-range,28000
+City,5,6,City Exploration,Winter,Flight,Luxury,85000
+City,2,2,Cultural & Heritage,Summer,Train,Budget,7000
+City,4,10,Cultural & Heritage,Winter,Train,Mid-range,52000
+City,7,4,City Exploration,Winter,Flight,Luxury,96000
+City,3,6,Cultural & Heritage,Monsoon,Bus,Budget,16000
+City,5,4,City Exploration,Winter,Flight,Mid-range,46000
+City,2,8,Cultural & Heritage,Summer,Train,Budget,18000
+City,4,3,City Exploration,Winter,Train,Mid-range,18000
+City,6,5,Cultural & Heritage,Winter,Flight,Mid-range,58000
+City,3,2,City Exploration,Summer,Bus,Budget,7000
+City,4,4,Cultural & Heritage,Winter,Train,Budget,16000
+City,5,10,City Exploration,Winter,Flight,Mid-range,100000
+Heritage,4,4,Cultural & Heritage,Winter,Train,Mid-range,22000
+Heritage,6,8,Cultural & Heritage,Winter,Flight,Luxury,110000
+Heritage,3,2,Cultural & Heritage,Summer,Bus,Budget,8000
+Heritage,5,6,Cultural & Heritage,Winter,Train,Mid-range,38000
+Heritage,7,10,Cultural & Heritage,Winter,Flight,Luxury,160000
+Heritage,2,4,Cultural & Heritage,Monsoon,Bus,Budget,10000
+Heritage,4,3,Cultural & Heritage,Winter,Train,Budget,14000
+Heritage,6,5,Cultural & Heritage,Winter,Flight,Mid-range,62000
+Heritage,3,8,Cultural & Heritage,Summer,Train,Mid-range,30000
+Heritage,5,4,Cultural & Heritage,Winter,Flight,Mid-range,50000
+Heritage,4,6,Cultural & Heritage,Winter,Train,Mid-range,28000
+Heritage,3,2,Cultural & Heritage,Winter,Train,Budget,9500
+Heritage,7,4,Cultural & Heritage,Winter,Flight,Luxury,85000
+Heritage,4,10,Cultural & Heritage,Winter,Train,Mid-range,55000
+Wildlife,5,4,Wildlife Safari,Winter,Flight,Mid-range,60000
+Wildlife,7,6,Wildlife Safari,Winter,Flight,Luxury,140000
+Wildlife,3,2,Wildlife Safari,Summer,Train,Budget,15000
+Wildlife,4,8,Wildlife Safari,Winter,Train,Mid-range,52000
+Wildlife,6,4,Wildlife Safari,Winter,Flight,Luxury,100000
+Wildlife,5,10,Wildlife Safari,Winter,Flight,Mid-range,130000
+Wildlife,3,4,Wildlife Safari,Monsoon,Bus,Budget,18000
+Wildlife,4,3,Wildlife Safari,Winter,Train,Mid-range,24000
+Wildlife,7,5,Wildlife Safari,Winter,Flight,Luxury,120000
+Wildlife,5,6,Wildlife Safari,Summer,Flight,Mid-range,80000
+Wildlife,3,2,Wildlife Safari,Winter,Train,Budget,13000
+Wildlife,6,8,Wildlife Safari,Winter,Flight,Mid-range,108000
+Wildlife,4,4,Wildlife Safari,Winter,Train,Mid-range,32000
+Beach,4,5,Relaxing Beach,Winter,Train,Mid-range,26000
+Beach,6,8,Adventure,Winter,Flight,Luxury,130000
+Beach,3,3,Relaxing Beach,Monsoon,Bus,Budget,9000
+Beach,5,6,Relaxing Beach,Winter,Flight,Mid-range,70000
+Beach,2,4,Relaxing Beach,Summer,Train,Budget,8000
+Beach,7,4,Adventure,Winter,Flight,Luxury,88000
+Hill Station,5,5,Adventure,Summer,Train,Mid-range,32000
+Hill Station,3,6,Adventure,Monsoon,Bus,Budget,15000
+Hill Station,7,4,Adventure,Summer,Flight,Luxury,95000
+Hill Station,4,3,Relaxing Beach,Winter,Train,Budget,12000
+Hill Station,6,8,Adventure,Summer,Flight,Mid-range,90000
+City,3,3,City Exploration,Winter,Train,Budget,12000
+City,5,5,Cultural & Heritage,Winter,Flight,Mid-range,55000
+City,4,8,City Exploration,Summer,Train,Mid-range,40000
+City,6,4,City Exploration,Winter,Flight,Luxury,80000
+City,2,6,Cultural & Heritage,Monsoon,Bus,Budget,14000
+Heritage,5,5,Cultural & Heritage,Winter,Flight,Mid-range,48000
+Heritage,3,3,Cultural & Heritage,Winter,Train,Budget,14000
+Heritage,6,6,Cultural & Heritage,Winter,Flight,Luxury,105000
+Heritage,4,4,Cultural & Heritage,Summer,Train,Mid-range,22000
+Heritage,7,8,Cultural & Heritage,Winter,Flight,Luxury,152000
+Wildlife,4,5,Wildlife Safari,Winter,Train,Mid-range,36000
+Wildlife,6,4,Wildlife Safari,Winter,Flight,Mid-range,76000
+Wildlife,3,3,Wildlife Safari,Summer,Train,Budget,14000
+Wildlife,5,8,Wildlife Safari,Winter,Flight,Luxury,128000
+Wildlife,7,6,Wildlife Safari,Winter,Flight,Luxury,135000
+Beach,5,3,Relaxing Beach,Winter,Train,Mid-range,21000
+Beach,4,7,Adventure,Winter,Flight,Mid-range,62000
+Beach,3,5,Relaxing Beach,Summer,Bus,Budget,12000
+Beach,6,4,Relaxing Beach,Winter,Flight,Luxury,72000
+Hill Station,4,5,Adventure,Summer,Train,Mid-range,26000
+Hill Station,6,3,Adventure,Winter,Flight,Mid-range,48000
+Hill Station,3,7,Relaxing Beach,Summer,Bus,Budget,16000
+Hill Station,5,6,Adventure,Summer,Flight,Luxury,100000
+City,3,5,City Exploration,Winter,Train,Mid-range,20000
+City,6,3,Cultural & Heritage,Winter,Flight,Luxury,70000
+City,4,7,City Exploration,Summer,Train,Mid-range,36000
+City,5,5,City Exploration,Winter,Flight,Mid-range,58000
+Heritage,3,5,Cultural & Heritage,Winter,Train,Mid-range,20000
+Heritage,6,3,Cultural & Heritage,Winter,Flight,Luxury,72000
+Heritage,4,7,Cultural & Heritage,Winter,Train,Mid-range,34000
+Heritage,5,4,Cultural & Heritage,Summer,Flight,Mid-range,44000
+Wildlife,3,5,Wildlife Safari,Winter,Train,Mid-range,24000
+Wildlife,6,3,Wildlife Safari,Winter,Flight,Luxury,85000
+Wildlife,4,7,Wildlife Safari,Winter,Train,Mid-range,46000
+Wildlife,5,4,Wildlife Safari,Summer,Flight,Mid-range,65000
+Beach,3,2,Relaxing Beach,Winter,Train,Budget,7000
+Beach,7,5,Adventure,Winter,Flight,Mid-range,80000
+Beach,4,8,Relaxing Beach,Monsoon,Train,Budget,22000
+Hill Station,3,2,Adventure,Summer,Bus,Budget,7500
+Hill Station,7,5,Adventure,Winter,Flight,Mid-range,78000
+Hill Station,4,8,Adventure,Summer,Train,Mid-range,36000
+City,3,2,City Exploration,Winter,Train,Budget,8000
+City,7,5,City Exploration,Winter,Flight,Mid-range,80000
+City,4,8,Cultural & Heritage,Winter,Train,Mid-range,44000
+Heritage,3,2,Cultural & Heritage,Winter,Train,Budget,8500
+Heritage,7,5,Cultural & Heritage,Winter,Flight,Mid-range,78000
+Heritage,4,8,Cultural & Heritage,Summer,Train,Mid-range,36000
+Wildlife,3,2,Wildlife Safari,Winter,Train,Budget,12000
+Wildlife,7,5,Wildlife Safari,Winter,Flight,Mid-range,95000
+Wildlife,4,8,Wildlife Safari,Winter,Train,Mid-range,52000
+Beach,6,3,Relaxing Beach,Winter,Flight,Mid-range,40000
+Beach,4,6,Adventure,Winter,Train,Mid-range,30000
+Beach,5,2,Relaxing Beach,Summer,Bus,Budget,9000
+Hill Station,6,3,Adventure,Summer,Flight,Mid-range,54000
+Hill Station,4,6,Adventure,Winter,Train,Mid-range,28000
+Hill Station,5,2,Relaxing Beach,Summer,Bus,Budget,10000
+City,6,3,City Exploration,Winter,Flight,Mid-range,50000
+City,4,6,Cultural & Heritage,Winter,Train,Mid-range,32000
+City,5,2,City Exploration,Summer,Bus,Budget,11000
+Heritage,6,3,Cultural & Heritage,Winter,Flight,Mid-range,52000
+Heritage,4,6,Cultural & Heritage,Winter,Train,Mid-range,30000
+Heritage,5,2,Cultural & Heritage,Winter,Train,Budget,14000
+Wildlife,6,3,Wildlife Safari,Winter,Flight,Mid-range,72000
+Wildlife,4,6,Wildlife Safari,Winter,Train,Mid-range,44000
+Wildlife,5,2,Wildlife Safari,Summer,Train,Budget,20000
+Beach,8,4,Adventure,Winter,Flight,Luxury,110000
+Beach,10,6,Relaxing Beach,Winter,Flight,Luxury,180000
+Hill Station,8,4,Adventure,Summer,Flight,Luxury,125000
+Hill Station,10,6,Adventure,Summer,Flight,Luxury,200000
+City,8,4,City Exploration,Winter,Flight,Luxury,120000
+City,10,6,Cultural & Heritage,Winter,Flight,Luxury,190000
+Heritage,8,4,Cultural & Heritage,Winter,Flight,Luxury,130000
+Heritage,10,6,Cultural & Heritage,Winter,Flight,Luxury,210000
+Wildlife,8,4,Wildlife Safari,Winter,Flight,Luxury,145000
+Wildlife,10,6,Wildlife Safari,Winter,Flight,Luxury,225000
+Beach,1,2,Relaxing Beach,Summer,Bus,Budget,3500
+Beach,1,4,Relaxing Beach,Summer,Bus,Budget,6000
+Hill Station,1,2,Adventure,Summer,Bus,Budget,4000
+Hill Station,1,4,Adventure,Summer,Bus,Budget,7000
+City,1,2,City Exploration,Summer,Train,Budget,3000
+City,1,4,City Exploration,Winter,Train,Budget,5500
+Heritage,1,2,Cultural & Heritage,Winter,Train,Budget,3500
+Heritage,1,4,Cultural & Heritage,Winter,Train,Budget,6000
+Wildlife,1,2,Wildlife Safari,Summer,Train,Budget,5000
+Wildlife,1,4,Wildlife Safari,Winter,Train,Budget,8000
+Beach,14,8,Adventure,Winter,Flight,Luxury,280000
+Hill Station,14,8,Adventure,Summer,Flight,Luxury,300000
+City,14,8,City Exploration,Winter,Flight,Luxury,260000
+Heritage,14,8,Cultural & Heritage,Winter,Flight,Luxury,290000
+Wildlife,14,8,Wildlife Safari,Winter,Flight,Luxury,340000
+Beach,3,15,Relaxing Beach,Winter,Train,Budget,42000
+Beach,5,20,Relaxing Beach,Winter,Train,Mid-range,160000
+Hill Station,3,15,Adventure,Summer,Train,Budget,48000
+Hill Station,5,20,Adventure,Summer,Flight,Mid-range,220000
+City,3,15,City Exploration,Winter,Train,Budget,40000
+City,5,20,Cultural & Heritage,Winter,Flight,Mid-range,190000
+Heritage,3,15,Cultural & Heritage,Winter,Train,Budget,45000
+Heritage,5,20,Cultural & Heritage,Winter,Flight,Mid-range,185000
+Wildlife,3,15,Wildlife Safari,Winter,Train,Mid-range,65000
+Wildlife,5,20,Wildlife Safari,Winter,Flight,Mid-range,260000
