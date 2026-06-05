@@ -25,7 +25,8 @@ def predict_hotel(city, hotel_type, rating, stars):
             val = input_map.get(feat, 0)
             if feat in encoders:
                 le = encoders[feat]
-                val = int(le.transform([str(val)])[0]) if str(val) in le.classes_ else 0
+                val_str = str(val).strip().lower()
+                val = int(le.transform([val_str])[0]) if val_str in le.classes_ else 0
             row.append(float(val))
 
         pred = int(model.predict([row])[0])

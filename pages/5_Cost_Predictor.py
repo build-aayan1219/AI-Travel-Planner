@@ -23,15 +23,41 @@ st.markdown('<span style="background:#e8eaff;color:#3730a3;border-radius:20px;pa
 st.markdown("Enter your trip details and the ML model predicts the total cost.")
 st.markdown("---")
 
+
+
 if not is_model_trained():
     st.error("⚠️ Model not trained yet!")
     st.code("source venv/bin/activate\npython ml/train_model.py")
     st.stop()
 
 options = get_valid_options()
+
+DESTINATION_MAP = {
+    "goa": "Beach", "puri": "Beach", "andaman": "Beach", "kovalam": "Beach",
+    "manali": "Hill Station", "shimla": "Hill Station", "ooty": "Hill Station",
+    "munnar": "Hill Station", "darjeeling": "Hill Station",
+    "jaipur": "Heritage", "agra": "Heritage", "varanasi": "Heritage",
+    "hampi": "Heritage", "khajuraho": "Heritage",
+    "mumbai": "City", "delhi": "City", "bangalore": "City",
+    "hyderabad": "City", "pune": "City", "chennai": "City",
+    "ranthambore": "Wildlife", "jim corbett": "Wildlife",
+    "kaziranga": "Wildlife", "bandhavgarh": "Wildlife",
+}
+
 col1, col2, col3 = st.columns(3)
 with col1:
-    destination_type = st.selectbox("🗺️ Destination Type", options["destination_type"])
+    destination = st.text_input("📍 Destination", placeholder="e.g. Goa, Manali, Jaipur")
+    detected_type = DESTINATION_MAP.get(destination.lower().strip(), None)
+    if detected_type:
+        st.success(f"✅ Detected as: **{detected_type}**")
+        destination_type = st.selectbox(
+            "🗺️ Destination Type",
+            options["destination_type"],
+            index=options["destination_type"].index(detected_type),
+        )
+    else:
+        st.info("ℹ️ Could not auto-detect — please select manually.")
+        destination_type = st.selectbox("🗺️ Destination Type", options["destination_type"])
     days = st.number_input("📅 Number of Days", 1, 30, 4)
     group_size = st.number_input("👥 Group Size", 1, 20, 4)
 with col2:
